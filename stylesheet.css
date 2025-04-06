@@ -1,3 +1,7 @@
+body {
+    font-family: "Hiragino Kaku Gothic ProN";
+}
+
 div {
   height: 500px;
   background-image: url(images/desert.jpg);
