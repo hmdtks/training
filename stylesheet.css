@@ -1,6 +1,8 @@
 div {
   height: 1000px;
   background-image: url(images/desert.jpg);
+  /*表示範囲を埋め尽くすように背景を拡大・縮小*/
+  background-size: cover;
 }
 
 h1 {
