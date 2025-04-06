@@ -13,4 +13,6 @@ h1 {
 .box {
   width: 4000px;
   margin:0 auto;
+  opacity: 0.7;
+  letter-spacing: 5px;
 }
