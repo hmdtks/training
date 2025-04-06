@@ -1,4 +1,9 @@
+div {
+  height: 200px;
+  background-image: url(images/desert.jpg);
+}
+
 h1 {
   font-size: 30px;
-  color: #ff8c00;
+  color: #ffffff;
 }
