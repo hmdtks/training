@@ -9,3 +9,8 @@ h1 {
   font-size: 30px;
   color: #ffffff;
 }
+
+.box {
+  width: 5000px;
+  margin:0 auto;
+}
